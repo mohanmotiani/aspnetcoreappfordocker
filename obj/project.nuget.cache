@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbuXXtIBDsY5Ske5R0mGghoC7HZtEaoPKHk02IJazBpXwBkuumNTUXa1Y81zUk2htPATpe/TeRWg1Z/F6PgKDg==",
+  "success": true,
+  "projectFilePath": "D:\\My Developments\\Docker\\DotNetCore\\aspnetcoreappfordocker\\aspnetcoreappfordocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
