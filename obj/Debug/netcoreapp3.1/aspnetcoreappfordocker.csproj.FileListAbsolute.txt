@@ -36,3 +36,4 @@ D:\My Developments\Docker\DotNetCore\aspnetcoreappfordocker\obj\Debug\netcoreapp
 D:\My Developments\Docker\DotNetCore\aspnetcoreappfordocker\obj\Debug\netcoreapp3.1\aspnetcoreappfordocker.genruntimeconfig.cache
 D:\My Developments\Docker\DotNetCore\aspnetcoreappfordocker\obj\Debug\netcoreapp3.1\aspnetcoreappfordocker.csproj.CopyComplete
 D:\My Developments\Docker\DotNetCore\aspnetcoreappfordocker\bin\Debug\netcoreapp3.1\Dockerrun.aws.json
+D:\My Developments\Docker\DotNetCore\aspnetcoreappfordocker\obj\Debug\netcoreapp3.1\Razor\Pages\Docker.cshtml.g.cs
